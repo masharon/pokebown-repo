@@ -7,30 +7,32 @@ assignees: ''
 
 ---
 
-**Describe the bug**
-
-
-**To Reproduce**
-Steps to reproduce the behavior:
+**Steps to Reproduce**
 1. 
 2. 
 3. 
 4. 
 
-***Actual behavior***
+**Actual behavior**
+
 
 
 **Expected behavior**
-A clear and concise description of what you expected to happen.
 
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**Attachments**
 
-**Additional context**
-Add any other context about the problem here.
+
+
+
+
+
+**Environment**
+ - Environment: Dev, Prod
+ -  Version: SuccessFactors Business Execution Suite
+                 Release: b2305.20230424084853
+                 UI version: SAP Fiori
+                 Edition: Enterprise
+ - OS: Windows 10 Education, Version 22H2, OS Build 19045.2846
+ - Browser Chrome Version 112.0.5615.138 (Official Build) (64-bit)
